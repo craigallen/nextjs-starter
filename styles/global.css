@@ -13,12 +13,14 @@ body {
 }
 
 a {
-  color: #0070f3;
+  color: #da6200;
+  padding: 2px 1px 3px;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  background-color: #da62001c;
+  transition: .2s;
 }
 
 img {
